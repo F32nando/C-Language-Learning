@@ -1,0 +1,18 @@
+
+for
+	"一般邏輯運算/一維陣列/二維陣列"
+
+while
+	"資料庫筆數輸出/MCU時間控制/迴圈陷阱函數參數/File I/O"
+
+"MCU時間控制"
+"--(1)暫存器   寫法 8051/STM32/AVR/pic "
+"--(2)函數     寫法 Arduino/IOT/AI "
+"--(3)積木     寫法 Mixly/MoveCode "
+"--(4)線性流程 寫法 NodeRed "
+
+
+
+do..while
+	"至少執行一次地方" 
+	
