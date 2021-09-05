@@ -1,0 +1,28 @@
+"整數資料型態"
+
+ int 
+ int8_t   1byte
+int16_t	  2byte
+int32_t   4byte
+int64_t   8byte
+函數庫
+#include<inttypes.h> 
+
+ char c[] = {'a','b','c','d','e'};
+ a ->  a   b   c   d   e  ==>記憶體空間存放的值 
+ 	 " 0   1   2   3   4 "  ==>記憶體的空間位置
+ 	 
+ 	 
+ 	 
+char s[]="Hello"; "可輸入亦可輸出"
+ s ->  H   e   l   l   o   \0  ==>記憶體空間存放的值
+  	 " 0   1   2   3   4    5     ==>記憶體的空間位置
+  	 s[0] s[1] s[2] s[3] s[4] 
+  	 
+char *D = "Hello";  "不可輸入只能輸出"
+
+"指標長度計算"
+#include<string.h>
+strlen(指標變數):int
+"會清掉不用空白"
+ 

@@ -1,0 +1,16 @@
+"字串連結" 
+函數庫  
+#include <String.h>
+
+ strcat(字串1,字串2);   (ok)
+ str3 = str1 + str2;    (x) ==>python/ java 可以 
+ 
+ 
+ 
+ 程式碼             Ms-Dos
+ 	 	 ---->	 	 >Java 
+ 	 	 	 	 	 
+     gets(字元陣列)向Ms-Dos取資料 
+ 
+ 
+ 

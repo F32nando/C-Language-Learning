@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="20210901.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="main.c"/>
+		<File Name="0901_ex1.c"/>
+		<File Name="0901_ex2.c"/>
+		<File Name="0901_ex3.c"/>
+		<File Name="0901_array1.c"/>
+		<File Name="0901_array2.c"/>
+		<File Name="指標"/>
+		<File Name="0901_array2_1.c"/>
+		<File Name="0901_"/>
+		<File Name="0901_array2_2_inttype.c"/>
+		<File Name="0901_array_led.c"/>
+		<File Name="0901_array_char.c"/>
+		<File Name="0901_ex4_array.c"/>
+		<File Name="0901_array_input.c"/>
+		<File Name="0901_array_input_char.c"/>
+		<File Name="0901_array_input_float.c"/>
+		<File Name="0901_array_max_min.c"/>
+		<File Name="0901_ex5_.c"/>
+		<File Name="0901_ex5_teacher.c"/>
+	</Files>
+</Project>

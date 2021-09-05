@@ -1,0 +1,10 @@
+"字串複製" 
+函數庫  
+#include <String.h>
+
+ strcpy(目標陣列,來源陣列);    (ok)
+ 目標陣列 = 來源陣列           (x)  ==>python java
+ 
+ 
+ 
+ 
