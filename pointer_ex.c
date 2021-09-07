@@ -32,6 +32,13 @@ int main()
     char *pname; //指標 指到名字
     pname=name; //陣列 為 連續記憶體 不需要 &
 
+    int *pchi;
+    int *peng;
+    int *pmat;
+    pchi = &chi;
+    peng = &eng;
+    pmat = &mat;
+
     float avg;
     int total;
     total = chi + eng +mat;
@@ -48,7 +55,7 @@ int main()
     //printf("pavg=%f",*pavg);
 
     printf("編號\t姓名\t國文\t英文\t數學\t總分\t平均\t\n");
-    printf("%s\t%s\t%d\t%d\t%d\t%d\t%f\t",pno,pname,chi,eng,mat,*ptotal,*pavg);
+    printf("%s\t%s\t%d\t%d\t%d\t%d\t%f\t",pno,pname,*pchi,*peng,*pmat,*ptotal,*pavg);
     //
 
     return 0;
