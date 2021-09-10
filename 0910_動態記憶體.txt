@@ -1,0 +1,8 @@
+動態記憶體配置 : malloc
+
+資料型態 *元件名稱 = (資料型態*) malloc(sizeof(資料型態));
+free(元件名稱):釋放記憶體
+
+#include<stdlib.h>
+
+
