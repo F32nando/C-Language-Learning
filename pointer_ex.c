@@ -55,7 +55,7 @@ int main()
     //printf("pavg=%f",*pavg);
 
     printf("編號\t姓名\t國文\t英文\t數學\t總分\t平均\t\n");
-    printf("%s\t%s\t%d\t%d\t%d\t%d\t%f\t",pno,pname,*pchi,*peng,*pmat,*ptotal,*pavg);
+    printf("%s\t%s\t%d\t%d\t%d\t%d\t%.2f\t\n",pno,pname,*pchi,*peng,*pmat,*ptotal,*pavg);
     //
 
     return 0;

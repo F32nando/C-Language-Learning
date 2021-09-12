@@ -8,7 +8,7 @@ int main()
     a=50;
     ca3(a);
 
-    return 0;
+    return 0;.
 
 }
 

@@ -20,5 +20,5 @@ void ca3(int a, int b)
     int sum=0;
     
     sum = a + b; //指標 當然也可以把pa pb在化成指標去用
-    printf("%d",sum); //回去取a的值
+    printf("sum = %d\n",sum); //回去取a的值
 }   
