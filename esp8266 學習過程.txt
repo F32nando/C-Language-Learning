@@ -1,0 +1,15 @@
+
+
+ESP 8266 Board --> ESP 32 Board --> ESP3232 Board
+ESP 8266 chip --> ESP 32 chip --> ESP3232 chip
+
+Attiny85 --> Attiny 2313 --> Attiny 167  ---> Attiny 88
+
+
+AI
+ESP32AI  / Raspberry Pi4   台陽能工業
+$1000-$1500   
+
+
+開發版
+聯發科'瑞昱 新唐 新茂
